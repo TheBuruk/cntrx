@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILE_INFO>
+    <BASIC_INFO>
+        <STATE NAME="CONTENT_TYPE" TYPE="string" VALUE="Program" />
+        <STATE NAME="PARENT" TYPE="string" VALUE="/Hitman Contracts/Scenes/C08-3/C08-3_MAIN.ZIP/SCENES/C08-3" />
+        <STATE NAME="FILE_ID" TYPE="string" VALUE="ac157fbf2884292397446486800" />
+        <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
+        <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
+        <STATE NAME="NAME" TYPE="string" VALUE="C08-3_MAIN.RMC" />
+    </BASIC_INFO>
+</FILE_INFO>
